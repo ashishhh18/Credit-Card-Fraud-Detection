@@ -1,23 +1,23 @@
 #📊 Credit Card Fraud Detection
-This project aims to detect fraudulent credit card transactions using machine learning techniques.
+##This project aims to detect fraudulent credit card transactions using machine learning techniques.
 
 #🚀 Features
-Data preprocessing and cleaning
+##Data preprocessing and cleaning
 
-Exploratory Data Analysis (EDA)
+##Exploratory Data Analysis (EDA)
 
-Handling imbalanced datasets
+##Handling imbalanced datasets
 
-Model training (Logistic Regression, Random Forest, etc.)
+##Model training (Logistic Regression, Random Forest, etc.)
 
-Evaluation using accuracy, precision, recall, F1-score
+##Evaluation using accuracy, precision, recall, F1-score
 
 #🛠️ Tech Stack
-Python
+##Python
 
-Pandas, NumPy, Scikit-learn
+##Pandas, NumPy, Scikit-learn
 
-Matplotlib, Seaborn
+##Matplotlib, Seaborn
 
 #📂 Dataset
-Uses the Kaggle Credit Card Fraud Detection dataset, containing transactions made by European cardholders.
+##Uses the Kaggle Credit Card Fraud Detection dataset, containing transactions made by European cardholders.
